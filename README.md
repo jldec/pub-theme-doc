@@ -11,7 +11,8 @@ This theme is included with pub-server.
 
 To use this theme in a project, include "pub-theme-doc" in the "pkgs" array in pub-config.js.
 
-This theme will reference `pub-pkg-font-awesome` icons, if included with your packages.
+This theme will reference [pub-pkg-font-awesome](http://jldec.github.io/pub-pkg-font-awesome)
+icons, if included with your packages.
 
 
 ### to customize the header text and github url
