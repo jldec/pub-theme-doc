@@ -1,6 +1,6 @@
 {
   "name": "pub-theme-doc",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "pub-server documentation theme",
   "main": "pub-config.js",
   "dependencies": {
