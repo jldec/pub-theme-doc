@@ -52,5 +52,7 @@ header a, header a:hover, header a:focus, #navicon { color:#fff; text-decoration
 @media print {
 html, body { font-size:10px; color:#000; }
 a { color:#000; text-decoration:underline; }
-.toc { display:none; }
+#toc, #credit, .pub-button { display:none; }
+#main { margin:0; }
+#content { max-width:95%; margin:0; padding:0; }
 }
