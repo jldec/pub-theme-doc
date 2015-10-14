@@ -31,20 +31,4 @@ module.exports = function(generator) {
       frame);
   });
 
-  hb.registerHelper('credit', function(frame) {
-    if (opts.credit || !('credit' in opts)) {
-      var credit = opts.credit ||
-        'powered by ' +
-        '[pub-server](http://jldec.github.io/pub-doc/)' +
-        (opts.theme ? ' and [' + opts.theme.pkgName + '](' +
-          hb.githubUrl(opts.theme.pkgJson) + ')' : '');
-
-      return hb.defaultFragmentHtml(
-        '/#credit',
-        '_!heart_ ' + credit,
-        '',
-        frame)
-    }
-  });
-
 }
