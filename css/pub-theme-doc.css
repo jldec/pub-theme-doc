@@ -20,11 +20,11 @@ header a, header a:hover, header a:focus, #navicon { color:#fff; text-decoration
 #toc { position:absolute; left:0; width:200px; overflow-y:auto; text-align:right; transition:all 0.4s; }
 #toc ul { list-style:none; padding:0; margin:0 0 3em 0; }
 
-#toc a { display:block; text-decoration:none; color:#777; padding:5px 12px; line-height:1.4;}
+#toc a { display:block; text-decoration:none; color:#888; padding:5px 12px; line-height:1.4;}
 #toc a:hover, #toc a:focus { color:#fff; background-color:#555; }
 
 #main { margin-left:200px; transition:margin 0.4s; }
-#content { max-width:740px; margin:0 auto; padding:0 20px; min-height:800px }
+#content { max-width:740px; margin:0 auto; padding:0 10px 15em 10px; min-height:800px }
 
 #content h1, #content h2, #content h3, #content h4, #content h5 { margin-bottom:0.2em; margin-top:1em; }
 
