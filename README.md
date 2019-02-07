@@ -38,7 +38,7 @@ In your downstream project create fragments with the following names, to replace
     ---- /#topmenu ----
 
     - [](/about-us)
-    - [_!github lg fw_](http://github.com/jldec/pub-server)
+    - [_!github lg fw_](https://github.com/jldec/pub-server)
 
 
 ### responsive view
