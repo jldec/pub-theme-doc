@@ -1,11 +1,17 @@
 {
   "name": "pub-theme-doc",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "pub-server documentation theme",
   "main": "pub-config.js",
   "dependencies": {
     "github-markdown-css": "^3.0.1"
   },
+  "files": [
+    "css/",
+    "plugins/",
+    "templates/",
+    "pub-config.js"
+  ],
   "keywords": [
     "publish",
     "markdown",
