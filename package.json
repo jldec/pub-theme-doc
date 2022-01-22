@@ -1,10 +1,10 @@
 {
   "name": "pub-theme-doc",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "description": "pub-server documentation theme",
   "main": "pub-config.js",
   "dependencies": {
-    "github-markdown-css": "^4.0.0"
+    "github-markdown-css": "^5.1.0"
   },
   "files": [
     "css/",
